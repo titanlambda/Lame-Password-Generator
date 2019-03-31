@@ -18,12 +18,12 @@ for x in range(0, numberOfPasswordToBeGenerated):
 
 #	print ("A random word from the list is : ",end="") 
 #	print(words[wordIndex])
-
+#
 #	print ("A random char from the list is : ",end="") 
-#	print(characters[charIndex])
-
+#	print(special_characters[charIndex])
+#
 #	print ("A random number from range is : ",end="") 
-#	print (number) 
-	
+#	print (randomNumber) 
+#	
 #	print ("password is : ",end="") 
 	print (password) 
